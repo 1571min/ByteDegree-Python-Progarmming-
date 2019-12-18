@@ -103,6 +103,14 @@
 
         [파이썬 기초 04. 문자열 타입의 이해 및 활용하기](https://www.notion.so/04-f7c471eb3e094d6e89a44886d14d9b11)
 
+        [파이썬 기초 05. 컬렉션 타입 이해- 1(List)](https://www.notion.so/05-1-List-be4b9a3e275c4bc9992360191483bde3)
+
+        [파이썬 기초 06. 컬렉션 타입 이해- 2(tuple)](https://www.notion.so/06-2-tuple-ea6a62ea1b7b45f8aa210f274e2f8d44)
+
+        [파이썬 기초 07. 컬렉션 타입 이해- 3(dictionary)](https://www.notion.so/07-3-dictionary-a3bac49b103d48219d7000d0be0b6a8b)
+
+        [파이썬 기초 08. 컬렉션 타입 이해- 5(set)](https://www.notion.so/08-5-set-c6ff0cdb6d7946cfaf697faf55c30ced)
+
     - Part 3. 컴퓨터 사이언스
         - 웹기본 지식
         - API활용
