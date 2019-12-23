@@ -6,6 +6,8 @@
 
 [오리엔테이션](https://www.notion.so/bc80caa9cd7f4785a500b8cc1b98fe7e)
 
+[첫번째 미니 프로젝트 피드백](https://www.notion.so/647b5c928d384ab583083faee5419b26)
+
 - 목차
     - Part 1. 데이터 분석 개요
         - 01. 데이터 분석 , 왜 배워야 할 까?
@@ -110,6 +112,14 @@
         [파이썬 기초 07. 컬렉션 타입 이해- 3(dictionary)](https://www.notion.so/07-3-dictionary-a3bac49b103d48219d7000d0be0b6a8b)
 
         [파이썬 기초 08. 컬렉션 타입 이해- 5(set)](https://www.notion.so/08-5-set-c6ff0cdb6d7946cfaf697faf55c30ced)
+
+        [파이썬 기초 09.조건문과 반복문-조건문(if,elif,else)](https://www.notion.so/09-if-elif-else-9dce95b8e5fd422e80045f2910cfff4e)
+
+        [파이썬 기초 10. 반복문 (while)](https://www.notion.so/10-while-64eaed07e50f45a9ae1272ae0699cf35)
+
+        [파이썬 기초 11. 반복문 (for)](https://www.notion.so/11-for-3b0b5c7a804e46ccbe5cc1f26ea63d41)
+
+        [파이썬 기초 12. 함수 이해 및 활용](https://www.notion.so/12-7aa2f77d3b7c466a9d145c2ef2ab2ce5)
 
     - Part 3. 컴퓨터 사이언스
         - 웹기본 지식
