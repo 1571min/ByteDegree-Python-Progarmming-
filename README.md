@@ -121,6 +121,10 @@
 
         [파이썬 기초 12. 함수 이해 및 활용](https://www.notion.so/12-7aa2f77d3b7c466a9d145c2ef2ab2ce5)
 
+        [파이썬 기초 13. lambda함수](https://www.notion.so/13-lambda-1ef4208342094c1d86997521ea3642fa)
+
+        [파이썬 기초 14. 모듈의 이해 및 사용](https://www.notion.so/14-640b1719ca244b6492abf35bf3e185b6)
+
     - Part 3. 컴퓨터 사이언스
         - 웹기본 지식
         - API활용
