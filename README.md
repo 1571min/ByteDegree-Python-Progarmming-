@@ -125,6 +125,8 @@
 
         [파이썬 기초 14. 모듈의 이해 및 사용](https://www.notion.so/14-640b1719ca244b6492abf35bf3e185b6)
 
+        [파이썬 기초 15. 클래스와 인스턴스](https://www.notion.so/15-4f6d60c0463f4a90ba984e025dba14b9)
+
     - Part 3. 컴퓨터 사이언스
         - 웹기본 지식
         - API활용
