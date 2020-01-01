@@ -127,6 +127,8 @@
 
         [파이썬 기초 15. 클래스와 인스턴스](https://www.notion.so/15-4f6d60c0463f4a90ba984e025dba14b9)
 
+        [파이썬 기초 16. 정규표현식](https://www.notion.so/16-218b785ee016420f952fd784888becfd)
+
     - Part 3. 컴퓨터 사이언스
         - 웹기본 지식
         - API활용
