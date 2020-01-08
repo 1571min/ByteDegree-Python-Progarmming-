@@ -130,33 +130,40 @@
         [파이썬 기초 16. 정규표현식](https://www.notion.so/16-218b785ee016420f952fd784888becfd)
 
     - Part 3. 컴퓨터 사이언스
-        - 웹기본 지식
-        - API활용
-        - Beautifulsoup 모듈
-        - Selenium 모듈
-        - Unix환경
-        - AWS 기초
-        - SQL 기초
-    - Part 4. Numpy와 Pandas
-        - Numpy 모듈이해
-        - 내장함수의 활용
-        - 데이터 시각화
-        - Series 타입의 이해
-        - DataFrame
-        - 숫자 데이터와 범주형 데이터
-        - 범주형 데이터 전처리 하기
-        - DataFrame group by
-        - transform
-        - pivot, pivot_table 함수
-        - stack, unstack 함수
-        - Concat 함수
-        - Merge & join 함수
+    - 데이터 수집을 위한 파이썬(Crawling)
 
-    - Part 5. 실전 프로젝트
-        - . 마케팅 데이터 분석
-        - 검색광고 데이터 분석
-        - 고객 데이터 분석
-        - 가상 쇼핑몰 주문 데이터
-        - 시간별, 지역별, 상품군별 가장 많이 팔린 데이터 확인하기
-        - 로그데이터를 파악하여 고객 이탈 페이지 확인하기
-        - 데이터 기반으로 의사결정하기: 푸쉬 노티피케이션 타임
+        [chapter 1 웹 기본 지식](https://www.notion.so/chapter-1-ad0432227c6844e7b61a4f4b49ba6314)
+
+        [chapter 2 웹기본 지식(http method)](https://www.notion.so/chapter-2-http-method-1cf2e5e32f26493cb09a853e31c751fa)
+
+        [chapter 3 API 활용- requests 모듈 사용하기](https://www.notion.so/chapter-3-API-requests-f373fa8d33be40dfb4e26f807d05171f)
+
+        [chapter 4 open api 이용하기](https://www.notion.so/chapter-4-open-api-df6cb5a9e5bb4bf68104aed235ed323c)
+
+        [chapter 5 beautifulsoup 모듈 사용하기](https://www.notion.so/chapter-5-beautifulsoup-b29b5da1305d45c3b3637edb307bf5da)
+
+        [chapter 6 beautifulsoup 모듈 사용하기 2](https://www.notion.so/chapter-6-beautifulsoup-2-5c47d98ef0ef41f29e5ecb90e05f6249)
+
+- Part 4. Numpy와 Pandas
+    - Numpy 모듈이해
+    - 내장함수의 활용
+    - 데이터 시각화
+    - Series 타입의 이해
+    - DataFrame
+    - 숫자 데이터와 범주형 데이터
+    - 범주형 데이터 전처리 하기
+    - DataFrame group by
+    - transform
+    - pivot, pivot_table 함수
+    - stack, unstack 함수
+    - Concat 함수
+    - Merge & join 함수
+
+- Part 5. 실전 프로젝트
+    - . 마케팅 데이터 분석
+    - 검색광고 데이터 분석
+    - 고객 데이터 분석
+    - 가상 쇼핑몰 주문 데이터
+    - 시간별, 지역별, 상품군별 가장 많이 팔린 데이터 확인하기
+    - 로그데이터를 파악하여 고객 이탈 페이지 확인하기
+    - 데이터 기반으로 의사결정하기: 푸쉬 노티피케이션 타임
