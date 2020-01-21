@@ -145,11 +145,12 @@
         [chapter 6 beautifulsoup 모듈 사용하기 2](https://www.notion.so/chapter-6-beautifulsoup-2-5c47d98ef0ef41f29e5ecb90e05f6249)
 
 - Part 4. Numpy와 Pandas
-        [numpy 모듈& ndarray 이해하기](https://www.notion.so/numpy-ndarray-48b90af10b064e1382f8683cd02c7980)
 
-        [Chapter 01 - 02. ndarray 데이터 생성하기(numpy 모듈 함수 이용)_Before](https://www.notion.so/Chapter-01-02-ndarray-numpy-_Before-63cb9cfd8e8448c4b102385a6bf8b431)
+    [chapter 1 numpy 모듈& ndarray 이해하기](https://www.notion.so/numpy-ndarray-48b90af10b064e1382f8683cd02c7980)
 
-        [Chapter 01 - 03. ndarray 데이터 생성하기(random 서브모듈 함수 이용)_Before](https://www.notion.so/Chapter-01-03-ndarray-random-_Before-a52fedabffcf4418816e9b3e5a0e5822)
+    [chapter 2 ndarray 데이터 생성하기 numpy 모듈 함수 이용](https://www.notion.so/Chapter-01-02-ndarray-numpy-_Before-63cb9cfd8e8448c4b102385a6bf8b431)
+
+    [chapter 3 ndarray 데이터 생성하기andom 서브모듈 함수 이용](https://www.notion.so/Chapter-01-03-ndarray-random-_Before-a52fedabffcf4418816e9b3e5a0e5822)
 
 - Part 5. 실전 프로젝트
     - . 마케팅 데이터 분석
