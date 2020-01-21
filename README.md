@@ -145,19 +145,11 @@
         [chapter 6 beautifulsoup 모듈 사용하기 2](https://www.notion.so/chapter-6-beautifulsoup-2-5c47d98ef0ef41f29e5ecb90e05f6249)
 
 - Part 4. Numpy와 Pandas
-    - Numpy 모듈이해
-    - 내장함수의 활용
-    - 데이터 시각화
-    - Series 타입의 이해
-    - DataFrame
-    - 숫자 데이터와 범주형 데이터
-    - 범주형 데이터 전처리 하기
-    - DataFrame group by
-    - transform
-    - pivot, pivot_table 함수
-    - stack, unstack 함수
-    - Concat 함수
-    - Merge & join 함수
+        [numpy 모듈& ndarray 이해하기](https://www.notion.so/numpy-ndarray-48b90af10b064e1382f8683cd02c7980)
+
+        [Chapter 01 - 02. ndarray 데이터 생성하기(numpy 모듈 함수 이용)_Before](https://www.notion.so/Chapter-01-02-ndarray-numpy-_Before-63cb9cfd8e8448c4b102385a6bf8b431)
+
+        [Chapter 01 - 03. ndarray 데이터 생성하기(random 서브모듈 함수 이용)_Before](https://www.notion.so/Chapter-01-03-ndarray-random-_Before-a52fedabffcf4418816e9b3e5a0e5822)
 
 - Part 5. 실전 프로젝트
     - . 마케팅 데이터 분석
