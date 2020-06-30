@@ -2,7 +2,7 @@
 
 ### 목차
 
-[패스트캠퍼스-Syllabus_ByteDegree_데이터-사이언스_LV1-1.pdf](Untitled/-Syllabus_ByteDegree_-_LV1-1.pdf)
+![bytedegree](bytedegree_datascience.png)
 
 [오리엔테이션](https://www.notion.so/bc80caa9cd7f4785a500b8cc1b98fe7e)
 
